@@ -1,6 +1,7 @@
 # Music Popularity Classification
 
-Created as a Uni project
+Created as a Uni project  
+
 This R script focuses on classifying music popularity based on various features using the Naive Bayes and Random Forest classification algorithms. The dataset used for this classification task is from the Rolling Stones Spotify dataset.
 
 ## Prerequisites
